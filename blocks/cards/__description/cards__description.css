@@ -1,8 +1,7 @@
 .cards__description {
-  list-style: 23px;
+  line-height: 23px;
   font-size: 18px;
   font-weight: normal;
   text-align: center;
-  margin: 0;
-  margin-top: 16px;
+  margin-top: 16px 0 0;
 }

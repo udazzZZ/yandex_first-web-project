@@ -1,0 +1,5 @@
+.cards__item {
+  box-sizing: border-box;
+  padding-top: 60px;
+  width: 240px;
+}
